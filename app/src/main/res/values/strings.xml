@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Vocabulary</string>
+
+    <string name="list_screen_title">My Vocabulary</string>
+    <string name="add_screen_title">Add word</string>
+    <string name="edit_screen_title">Edit word</string>
+
+    <string name="term_label">Word</string>
+    <string name="translation_label">Translation</string>
+    <string name="example_label">Example sentence (optional)</string>
+    <string name="subject_label">Subject (optional, e.g. travel)</string>
+    <string name="term_error">Word cannot be empty</string>
+    <string name="translation_error">Translation cannot be empty</string>
+    <string name="clear_content_description">Clear %s</string>
+
+    <string name="difficulty_label">Difficulty</string>
+    <string name="difficulty_easy">Easy</string>
+    <string name="difficulty_medium">Medium</string>
+    <string name="difficulty_hard">Hard</string>
+    <string name="filter_all">All</string>
+
+    <string name="subject_format">Subject: %s</string>
+    <string name="empty_list">No words yet. Tap + to add one.</string>
+
+    <string name="delete_word_title">Delete word</string>
+    <string name="delete_msg">Do you want to delete \"%s\"?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+</resources>
